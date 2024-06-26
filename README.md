@@ -3,17 +3,17 @@
 ## Description
 #### *PROJECT 1: Word correction using Levenshtein distance - An app for kids learning how to spell words related to colors*
 Enter a color and click "Compute" to check the spelling
-![alt](\data\project1.png)
+![alt](/data/project1.png)
 
 Here is the result!
-![alt](\data\project1_result.png)
+![alt](/data/project1_result.png)
 
 #### *PROJECT 2: Object detection*
 Click "Browse files" and upload an image from your devices
-![alt](\data\project2.png)
+![alt](/data/project2.png)
 
 Here is the result!
-![alt](\data\project2_result.png)
+![alt](/data/project2_result.png)
 
 #### *PROJECT 3: Mini chatbot*
 Create a huggingface account and fill in the blanks
@@ -22,7 +22,7 @@ Create a huggingface account and fill in the blanks
 ![alt](\data\project3.png)
 
 Here is the result!
-![alt](data\project3_result.png)
+![alt](/data/project3_result.png)
 
 ## Installation
 To run this Streamlit app locally, follow these steps:
