@@ -6,6 +6,7 @@ Enter a color and click "Compute" to check the spelling
 ![alt](/data/project1.png)
 
 Here is the result!
+
 ![alt](/data/project1_result.png)
 
 #### *PROJECT 2: Object detection*
@@ -19,7 +20,7 @@ Here is the result!
 Create a huggingface account and fill in the blanks
 [Click here](https://huggingface.co/)
 
-![alt](\data\project3.png)
+![alt](/data/project3.png)
 
 Here is the result!
 ![alt](/data/project3_result.png)
