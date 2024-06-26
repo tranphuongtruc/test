@@ -1,4 +1,5 @@
 # THREE PROJECTS USING STREAMLIT
+
 ## Description
 #### *PROJECT 1: Word correction using Levenshtein distance - An app for kids learning how to spell words related to colors*
 Enter a color and click "Compute" to check the spelling
