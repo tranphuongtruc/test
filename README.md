@@ -3,7 +3,7 @@
 ## Description
 #### *PROJECT 1: Word correction using Levenshtein distance - An app for kids learning how to spell words related to colors*
 Enter a color and click "Compute" to check the spelling
-![alt](\assets\data\project1.png)
+![alt](/../main/assets/data/project1.png)
 
 Here is the result!
 ![alt](data\project1_result.png)
