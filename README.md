@@ -36,13 +36,14 @@ To run this Streamlit app locally, follow these steps:
 
 2. *(Optional)Create a virtual environment:*
    
-On Windows:
+    On Windows:
+   
     ```sh
     python -m venv venv
     source ./venv/Scripts/activate
     ```
 
-3. *Run the Streamlit app*
+4. *Run the Streamlit app*
 
 To start the Streamlit app, run the following command in your terminal:
 ```sh
