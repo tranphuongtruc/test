@@ -56,4 +56,5 @@ To start the Streamlit app, run the following command in your terminal:
 streamlit run app.py
 ```
 (with "app" is the name of the file)
+
 Also, you can add your own images/videos,... in the data folder.
